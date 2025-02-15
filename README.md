@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alex270900
+- 👋 Hi, I’m Alex
 - 👀 I’m interested in games development.
 - 🌱 I’m currently learning C#, Unity, C++, Unreal engine and Java.
 - 💞️ I’m looking to collaborate on any unreal or unity, C# or C++ projects.
